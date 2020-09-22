@@ -28,7 +28,7 @@ This repository features the slides that Fellows presented during their respecti
 
 **Emily (Yong Li) Dich** is a recent graduate of Harvard College where she studied Computer Science. This summer, she worked at the U.S. Census Bureau on a full stack web application for the Survey of Government Research and Development, centralizing data, refining database architecture, and creating a new interface for survey and research analysts.
 
-**Abhinay Dommalapti** is a rising senior at the University of Virginia studying Computer Science and Statistics. This summer, he worked on a machine learning model at the U.S. Census Bureau to predict industry classification codes from economic census data.
+**Abhinay Dommalapti** is a rising senior at the University of Virginia studying Computer Science and Statistics. This summer, he worked on a machine learning model at the U.S. Census Bureau to predict industry classification codes from economic census data. | [Presentation](Abhinay Dommalapati.pdf)
 
 **Evan Dong** is a rising junior at Brown University studying Computer Science, Behavioral Decision Sciences, and Institutional Structure and Sustainable Systems. This summer, they worked at the U.S. Census Bureau linking pre-existing datasets within the Bureau to connect geographic, business, employment, and demographic data.
 
