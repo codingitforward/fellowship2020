@@ -62,7 +62,7 @@ This repository features the slides that Fellows presented during their respecti
 
 **Drishaan Jain** is a rising sophomore at the University of Michigan studying Computer Science. This summer, he worked at the U.S. Census Bureau on an Economic Census project extending the existing County Business Patterns program, including revenue data in the product that provides subnational firm and establishment data by industry and geography to advise economic and policy decisions.
 
-**Jennifer John** is a rising sophomore at Stanford University studying Computer Science. This summer, she worked at the National Institutes of Health at the National Center for Advancing Translational Sciences (NCATS) to develop machine learning and natural language processing models to understand scientific papers on rare disease research, including epidemiology studies.
+**Jennifer John** is a rising sophomore at Stanford University studying Computer Science. This summer, she worked at the National Institutes of Health at the National Center for Advancing Translational Sciences (NCATS) to develop machine learning and natural language processing models to understand scientific papers on rare disease research, including epidemiology studies. | [Presentation](Jennifer_John.pdf)
 
 **Jared Joseph** is a Ph.D. candidate at the University of California, Davis studying Sociology. This summer he worked at the Internal Revenue Service on a model to categorize incoming referrals to the Tax-Exempt/Government Entities office of the IRS by suspected tax-relevant merit, helping IRS agents prioritize which referrals to consider first.
 
