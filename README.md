@@ -96,7 +96,7 @@ This repository features the slides that Fellows presented during their respecti
 
 **Jessie (Jaspreet) Singh** is a rising senior at the University of Michigan studying Computer Science and Business. This summer, he worked at the National Institutes of Health and the Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD) on a data-sharing platform that enables scientists to access de-identified data from NICHD-funded studies for secondary analysis, rather than collecting their own data. | [Presentation](Jessie_Singh.pdf)
 
-**Eric Son** is a first-year Master’s student at the University of Chicago studying Computational Analysis and Public Policy. This summer, he worked at the National Institutes of Health creating and integrating database models into a web application to display energy consumption data for the Central Utility Plant. 
+**Eric Son** is a first-year Master’s student at the University of Chicago studying Computational Analysis and Public Policy. This summer, he worked at the National Institutes of Health creating and integrating database models into a web application to display energy consumption data for the Central Utility Plant. | [Presentation](Eric_Son.pdf)
 
 **Jared Stancombe** is a recent graduate of Indiana University where he studied Cybersecurity Risk Management as a Master’s student. This summer, he worked at the National Institutes of Health on a few resources for information system security officers at NIH institutes and centers using the MITRE ATT&CK framework to identify potential threat actors in the assessment and authorization processes for NIH systems. | [Presentation](Jared_Stancombe.pdf)
 
@@ -120,7 +120,7 @@ This repository features the slides that Fellows presented during their respecti
 
 **Varsha Vaidyanath** is a rising junior at the University of California, Berkeley studying Data Science and Computer Science. This summer, she worked at the National Institutes of Health and the National Institute of Child Health and Human Development (NICHD) to analyze Human Resource data and develop data visualizations to support better resource allocation and management.
 
-**Annie Wang** is a rising sophomore at the University of California, Berkeley studying Computer Science. This summer, she worked at the National Institutes of Health as part of the NIH STRIDES Initiative to design a visual identity and online resource hub to support members of the research community in using the cloud for research. 
+**Annie Wang** is a rising sophomore at the University of California, Berkeley studying Computer Science. This summer, she worked at the National Institutes of Health as part of the NIH STRIDES Initiative to design a visual identity and online resource hub to support members of the research community in using the cloud for research. | [Presentation](Annie_Wang_Bob_Zhao.pdf)
 
 **Anthony Xiang** is a rising junior at Stony Brook University majoring in Statistics and Computer Science. This summer, he worked at the U.S. Census Bureau to develop natural language processing for address matching of the 1990 decennial census to up-to-date records, enabling researchers to link important datasets across several decades. | [Presentation](Anthony_Xiang.pdf)
 
@@ -130,7 +130,7 @@ This repository features the slides that Fellows presented during their respecti
 
 **Anna Zhang** is a rising sophomore at Yale University studying Computing and the Arts. This summer, she worked at the General Services Administration on Code.gov’s integration with United States Web Design System 2.0 to improve the site’s user experience and consistency, as well as in making Code.gov mobile-friendly and accessible for individuals with disabilities, in accordance with Section 508. | [Presentation](Anna_Zhang.pdf)
 
-**Bob Zhao** is a rising senior at Washington University in St. Louis studying Economics and Computer Science. This summer, he worked at the National Institutes of Health as part of the NIH STRIDES Initiative to develop a web strategy and implementation, which will help NIH researchers to do research at an unprecedented scale by slashing compute times from weeks to hours.
+**Bob Zhao** is a rising senior at Washington University in St. Louis studying Economics and Computer Science. This summer, he worked at the National Institutes of Health as part of the NIH STRIDES Initiative to develop a web strategy and implementation, which will help NIH researchers to do research at an unprecedented scale by slashing compute times from weeks to hours. | [Presentation](Annie_Wang_Bob_Zhao.pdf)
 
 
 ### Contact
